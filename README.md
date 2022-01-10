@@ -1,7 +1,13 @@
-# Vue 3 + Vite
+# Dr.Max test project
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Zadání je jednoduché, vypracování by Vám nemělo trvat déle než 2 hodiny, samotný výstup může být napsaný v čem uznáte za vhodné. Jde nám spíš o to, pochopit jak nad věcí přemýšlíte. Pokud budete mít otázky, dejte mi prosím vědět.
 
-## Recommended IDE Setup
+Z webu https://news.ycombinator.com/ vytáhněte top 100 aktuálních zpráv včetně datetime vytvoření, interního a externího odkazu a názvu zprávy.
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+## How to run it?
+
+1. `yarn install`
+2. Work with Vite
+   * `vite dev` start dev server, aliases: `vite dev`, `vite serve`
+   * `vite build` build for production
+   * `vite preview` locally preview production build
