@@ -1,4 +1,4 @@
-# Dr.Max test project
+# YCombinator top100 news
 
 Zadání je jednoduché, vypracování by Vám nemělo trvat déle než 2 hodiny, samotný výstup může být napsaný v čem uznáte za vhodné. Jde nám spíš o to, pochopit jak nad věcí přemýšlíte. Pokud budete mít otázky, dejte mi prosím vědět.
 
